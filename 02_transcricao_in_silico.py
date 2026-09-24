@@ -8,8 +8,6 @@ A manipulação direta de texto em Python substitui a necessidade de carregar bi
 O método .replace() localiza e substitui os caracteres em toda a extensão do genoma de forma instantânea, simulando computacionalmente a ação da enzima RNA polimerase.
 """
 
-# Script: 02_transcricao_in_silico.py
-
 def transcrever_dna_para_rna(sequencia_dna):
     """
     Simula a transcrição biológica substituindo Timina (T) por Uracilo (U).
