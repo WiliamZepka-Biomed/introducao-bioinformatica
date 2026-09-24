@@ -12,7 +12,6 @@ O algoritmo analisa sequências genômicas por meio do método nativo .count() d
 Ele realiza uma varredura otimizada em tempo linear O(n) na cadeia de caracteres, 
 extraindo a frequência absoluta de cada base sem a necessidade de bibliotecas pesadas.
 """
-# Script: 01_composicao_bases.py
 
 def analisar_composicao_dna(sequencia_dna):
     """
